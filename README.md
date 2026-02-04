@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme Bastos
 
-<!--
-**EGG1203/EGG1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Fiscal de Prevenção e Conferente  
+💻 Desenvolvedor focado em automação e bots  
+🚀 Criador de soluções para controle de ponto e envio automático de documentos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que utilizo
+
+- Node.js
+- JavaScript
+- WPPConnect
+- Google Sheets API
+- PHP / Laravel
+- MySQL
+- HTML / CSS
+
+---
+
+## 🤖 Projetos em destaque
+
+### 📌 Bot de Controle de Ponto
+Robô que:
+- Lê e-mails automaticamente
+- Extrai dados de registros de ponto
+- Envia informações para planilha do Google
+- Notifica via WhatsApp
+
+### 📌 Sistema de Ponto Web
+Sistema em Laravel para controle de jornada.
+
+---
+
+## 🎯 Atualmente estudando
+- Melhorias em automação com Node.js
+- Integrações entre APIs
+- Estruturação de sistemas escaláveis
+
+---
+
+## 📫 Contato
+📱 WhatsApp: 61 92002-1996
+📧 Email: gguilherme.bastos@icloud.com
