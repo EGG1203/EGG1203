@@ -40,6 +40,6 @@ Sistema em Laravel para controle de jornada.
 ---
 
 ## 📫 Contato
-📱 WhatsApp: 61 92002-1996
+📱 WhatsApp: 61 98574-8977
 
 📧 Email: gguilherme.bastos@icloud.com
